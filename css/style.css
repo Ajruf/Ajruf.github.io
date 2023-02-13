@@ -831,7 +831,7 @@ button {
 
 .contact_section {
     width: 100%;
-    float: left;
+    align-items: center;
     padding-bottom: 90px;
 }
 .contact_taital {
